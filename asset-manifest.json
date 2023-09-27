@@ -1,0 +1,15 @@
+{
+  "bundle.css": "bundle.83de6.css",
+  "bundle.js": "bundle.14704.esm.js",
+  "bundle.js.map": "bundle.14704.esm.js.map",
+  "polyfills.js": "polyfills.e9e5c.esm.js",
+  "polyfills.js.map": "polyfills.e9e5c.esm.js.map",
+  "assets/favicon.ico": "assets/favicon.ico",
+  "assets/icon.png": "assets/icon.png",
+  "bundle.83de6.css.map": "bundle.83de6.css.map",
+  "manifest.json": "manifest.json",
+  "sw-esm.js": "sw-esm.js",
+  "sw-esm.js.map": "sw-esm.js.map",
+  "sw.js": "sw.js",
+  "sw.js.map": "sw.js.map"
+}
